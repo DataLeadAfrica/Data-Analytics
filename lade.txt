@@ -1,0 +1,5 @@
+we were introduced termina, git and github
+I downloaded git and i created git hub account
+The facilator taught two basic commands: LS which means list directories and CD commands which means navigate directories
+We were introduced to the interface
+we were also taught the term nano
