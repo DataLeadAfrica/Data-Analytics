@@ -1,0 +1,3 @@
+We learnt how to download and sign up on GIT, we were introduced to terminal and installed GITHub. We also learnt how to fork and clone directories. We also learnt some commands like "cd", "nano", "ls", "mkdir"y
+
+
