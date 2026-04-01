@@ -1,0 +1,7 @@
+We were introduced to Github
+We installed git
+We signed up for github
+We were introduced to the interface
+We learn how to use the terminal
+We were led to use commands like: ls, cd, touch, nano, mkdir etc
+
