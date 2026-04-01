@@ -1,0 +1,5 @@
+Today, we learnt about git and github.
+we downloaded git and github. We created a git hub account and learnt how to fork from another Data lead repository into my personal repository, we also learnt about LS(List directory)
+and we placed what we copied from the Data Analytics repository, into the documents folder and named it Data 
+
+
