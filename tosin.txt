@@ -1,0 +1,2 @@
+We learnt the following in class today: 1. We were introduced to the terminal 2. We installed github and was directed how to search for users and fork their repository. 3.Learnt some 
+commands like LS, CD, MKDIR, NANO.
