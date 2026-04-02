@@ -1,0 +1,8 @@
+Notes for git class
+Git clone + the pasted link
+Ls = list
+Cd  (name of the doc)= directory 
+touch (name of new file) = to save or add a file to an already exting repo
+nano = for notings
+git= this a git commmand  
+cat = to view on git
