@@ -1,0 +1,3 @@
+Hello everyone, today i learnt how to use GIT and GITHUB
+I downloaded Git and Git hub and was taught how to create an account on git hub. I also learnt how to fork from another repository into my personal repository.
+I was taught commands like ls, nano, cd and many more
